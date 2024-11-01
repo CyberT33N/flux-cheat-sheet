@@ -10,11 +10,25 @@ _______________________________
 
 # Prompts
 
+## Weights
+- By contrast, T5 encoder works more like an LLM. So weights like in SD e.g. (ambient light:2) not working. The solution is adjectives and specificity. If you type "big", try "very big", or "slightly big". If you want to be specific, "as big as a giraffe" or "a little bigger than average." 
+
+
+
+<br><br>
+<br><br>
 
 ## Logo
 
+<br><br>
+<br><br>
+
 ### 3D CGI with transition
 
+
+
+<br><br>
+<br><br>
 
 #### glowing biomechanical creature
 
@@ -23,6 +37,8 @@ pinK:
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' with a (glowing biomechanical creature:1.6) intertwining with the letters. As the creature wraps around the text, its sinewy body pulses with bioluminescent colors that blend seamlessly into the letters. The transition showcases intricate details, with fluid movements and soft, glowing tendrils extending from the creature to the text. The lighting enhances the organic feel, casting deep shadows and illuminating the vibrant colors for a captivating, dynamic effect.
 ```
+
+<br><br>
 
 #### massive wave of energy
 
@@ -33,7 +49,14 @@ blue **HOT**
 ```
 
 
+
+
+<br><br>
+<br><br>
+
 ##### Animals
+
+<br><br>
 
 ###### assive metallic beetle
 
@@ -42,35 +65,62 @@ silver:
 (Hyper-realistic 3D CGI) logo for 'Your Text' featuring a (massive metallic beetle:1.7) lifting off from the letters. As the beetle's wings open, they transform into shimmering sheets of metal that envelop the text, making it appear as if the letters are emerging from the creature. The transition is enhanced with swirling dust and particles that trail behind the wings, while the beetle’s body reflects a stunning array of colors. Dramatic lighting casts bold shadows, emphasizing the grand scale of the scene.
 ```
 
-#### elemental water serpent
+<br><br>
+
+###### elemental water serpent
 - need to be more modified
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where an (elemental water serpent:1.7) gracefully undulates from the letters. The serpent’s body transitions into flowing waves of liquid crystal, blending seamlessly into the text. Each scale catches the light, creating rippling reflections, while bubbles and luminescent droplets enhance the fluid motion.
 ```
 
+<br><br>
 
-#### elemental water serpent
+###### elemental water serpent
 red **EXTREM HOT**
 - need to be more modified
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where an (elemental water serpent:1.7) gracefully undulates from the letters. The serpent’s body transitions into flowing waves of liquid crystal, blending seamlessly into the text. Each scale catches the light, creating rippling reflections, while bubbles and luminescent droplets enhance the fluid motion.
 ```
 
-#### mechanical phoenix
+<br><br>
+
+###### mechanical phoenix
 red **EXTREM HOT**
 - need to be more modified
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where a (mechanical phoenix:1.7) rises dramatically from the letters. The phoenix’s wings unfurl, transitioning into swirling streams of molten metal that flow into the text. Each feather morphs into intricate metallic textures, with glowing blue embers spilling from the tips. The transition creates a dynamic motion effect, with sparks flying and vibrant, luminescent particles trailing the wings as they lift. Dramatic lighting enhances the fiery colors and reflective surfaces, casting deep shadows for a cinematic feel.
 ```
 
-#### mechanical dragon
+version2:
+**HOT**
+```
+(Hyper-realistic 3D CGI) logo for 'Your Text' where a (digital dragon:1.8) emerges from the letters. The dragon’s scales shimmer in iridescent hues, each reflecting code snippets. Its eyes glow with a fierce azure light, exhaling streams of (binary code:1.6) that intertwine with the text. The tail coils around the letters, creating a vortex of glowing particles that dance in the air, illuminated by pulsating neon lights.
+```
+
+
+
+<br><br>
+
+
+###### mechanical dragon
 blue **EXTREM HOT**
 - need to be more modified
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where a (mechanical dragon:1.8) coils around the letters. The dragon’s scales glimmer as it weaves through the text, its tail transforming into vibrant streams of blue energy that illuminate the letters. Each scale reflects intricate details, while glowing eyes enhance the dragon's fierce presence. The transition features swirling smoke and shimmering sparks that trail the dragon’s movements, with dramatic lighting casting deep shadows that create a sense of depth and intensity.
 ```
 
-#### cybernetic wolf
+v2 more playing with letter **hot**
+```
+(Hyper-realistic 3D CGI:1.8) logo for 'CyberT33N' where an (imposing mechanical dragon:2.0) playfully interacts with the oversized, glossy letters (bold and metallic:1.7) that dominate the foreground. The dragon coils around the letters, its vibrant tail transforming into energetic streams of blue tendrils (luminous and dynamic:1.6) that intertwine with the text, illuminating each character from within. Each scale on the dragon reflects intricate, radiant patterns, enhancing its fierce and captivating presence. The transition includes swirling smoke and sparkling particles (magical and ethereal:1.5) that trail the dragon’s movements, while dramatic, multi-directional lighting creates deep shadows and brilliant highlights (cinematic intensity:1.7), emphasizing the 3D effect and adding depth to the scene.
+
+```
+
+
+
+
+<br><br>
+
+###### cybernetic wolf
 
 red:
 - need to be more modified
@@ -80,7 +130,42 @@ red:
 
 
 
-#### massive mechanical hand
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+
+#### roboter
+
+<br><br>
+
+##### full roboter
+
+
+**hot**
+```
+(Spectacular 3D CGI) logo for 'Your Text' where a (giant constructor robot:1.7) assembles the letters from digital bricks. Each brick shines with bright colors and intricate designs. As the robot works, it creates a whirlwind of glowing particles, enhancing the motion effect, with dramatic spotlights highlighting the construction process.
+```
+
+
+<br><br>
+
+##### arm
+
+**hot**
+```
+(Immersive 3D CGI) logo for 'Your Name' displaying a (robotic arm:1.8) that assembles the letters from digital blocks. Each block has unique textures, from polished metal to translucent holograms. The arm moves with precision, and sparks fly as it connects the pieces, showcasing the innovation of technology. The background glows with a deep blue, enhancing the high-tech ambiance.
+```
+
+<br><br>
+
+##### massive mechanical hand
 
 silver 
 - need to be more modified
