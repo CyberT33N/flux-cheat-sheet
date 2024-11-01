@@ -1,12 +1,16 @@
-![image](https://github.com/user-attachments/assets/ca17dc22-04bc-46dc-949e-59b7811ed64e)# flux cheat sheet
+# Flux Cheat Sheet
+
+
+
+
+
+
 
 
 
 <br><br>
-<br><br>
-_______________________________
-<br><br>
-<br><br>
+
+
 
 # Prompts
 
@@ -187,6 +191,7 @@ Hyper-realistic 3D CGI logo for 'CyberT33N' featuring a strikingly imposing mech
 
 The transition is enriched by whirling smoke and sparkling particles that evoke a magical and ethereal atmosphere, trailing the dragon’s fluid movements. Dramatic and multi-directional lighting casts deep shadows and brilliant highlights, creating an ambiance of cinematic intensity that accentuates the 3D effect and depth of the entire scene, seamlessly merging the dragon and the text into a unified masterpiece.
 ```
+- Use 25 steps
 
 
 <br><br>
@@ -221,9 +226,18 @@ red:
 
 
 **hot**
+without adjectives:
 ```
 (Spectacular 3D CGI) logo for 'Your Text' where a (giant constructor robot:1.7) assembles the letters from digital bricks. Each brick shines with bright colors and intricate designs. As the robot works, it creates a whirlwind of glowing particles, enhancing the motion effect, with dramatic spotlights highlighting the construction process.
 ```
+
+with adjectives:
+```
+Spectacular 3D CGI logo for 'CyberT33N', featuring a massive constructor robot meticulously assembling the letters from vivid digital bricks. Each brick radiates bright colors and intricate patterns, adding complexity and energy to the structure. As the robot operates, it generates a whirlwind of glowing particles, creating an intense sense of motion and activity. Powerful, dramatic spotlights illuminate the construction process, casting deep shadows and brilliant highlights that enhance the 3D depth and underscore the dynamic, high-tech atmosphere.
+```
+
+
+
 
 
 <br><br>
@@ -231,9 +245,21 @@ red:
 ##### arm
 
 **hot**
+without adjectives:
 ```
 (Immersive 3D CGI) logo for 'Your Name' displaying a (robotic arm:1.8) that assembles the letters from digital blocks. Each block has unique textures, from polished metal to translucent holograms. The arm moves with precision, and sparks fly as it connects the pieces, showcasing the innovation of technology. The background glows with a deep blue, enhancing the high-tech ambiance.
 ```
+
+
+with adjectives:
+```
+Immersive 3D CGI logo for 'CyberT33N', showcasing a sleek, advanced robotic arm meticulously assembling the letters from distinctive digital blocks. Each block features unique textures, ranging from polished metal to ethereal, translucent holograms, adding depth and visual intrigue. The arm moves with precise, calculated motions, while bright sparks fly as it connects each piece, emphasizing a sense of cutting-edge technology. The backdrop glows in deep, vibrant blue, amplifying the high-tech ambiance and giving the scene a futuristic, immersive atmosphere.
+```
+
+
+
+
+
 
 <br><br>
 
@@ -254,13 +280,26 @@ version 2:
 
 
 
+
+
 #### liquid metal or style
 
 silver **HOT**
 - need to be more modified
+- without adjectives:
 ```
 (Hyper-realistic 3D CGI) logo featuring 'Your Text' with a (liquid metal orb:1.5) transitioning into the letters. The liquid metal flowing down and shaping the letters. The surface texture remains reflective, capturing intricate details and highlights as it moves. The overall effect is fluid and seamless, with ambient lighting enhancing the shiny finish.
 ```
+
+with adjectives:
+```
+Hyper-realistic 3D CGI logo featuring 'CyberT33N', where a smooth, liquid metal orb gradually transforms into the letters, flowing seamlessly down and molding into their shape. The surface retains a mirror-like, highly reflective texture, capturing intricate highlights and subtle details as it moves, creating a mesmerizing visual. The transition is fluid and harmonious, with soft, ambient lighting amplifying the glossy, metallic finish, giving the entire scene a strikingly sleek and futuristic appearance.
+```
+
+
+
+
+
 
 #### cyber-dragon style
 
@@ -345,9 +384,18 @@ Blue:
 #### ancient-meets-futuristic stone and metal style
 
 Blue **HOT**:
+without adjectives:
 ```
 (Epic 3D CGI) logo with 'Your Text' in (ancient-meets-futuristic stone and metal style:1.4). 'Your' sits above 'Text' in bold letters carved from a mix of obsidian stone and high-polished metal, with glowing cracks emitting faint, mystical blue light. Detailed shadows and dust particles around the logo give it a cinematic and powerful, mythical quality.
 ```
+
+with adjectives:
+```
+Epic 3D CGI logo featuring 'CyberT33N' in a fusion of ancient and futuristic stone and metal design. 'Cyber' hovers above 'T33N' in bold, intricately carved letters crafted from a blend of dark obsidian stone and highly polished metal. Faint, mystical blue light seeps through glowing cracks, adding a magical, otherworldly aura. Rich, detailed shadows and a subtle cloud of dust particles surround the logo, infusing it with a cinematic, mythical presence that feels both timeless and powerful.
+```
+
+
+
 
 
 Version 2:
