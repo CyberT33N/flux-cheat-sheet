@@ -1,4 +1,4 @@
-# flux cheat sheet
+![image](https://github.com/user-attachments/assets/ca17dc22-04bc-46dc-949e-59b7811ed64e)# flux cheat sheet
 
 
 
@@ -32,22 +32,33 @@ _______________________________
 
 #### glowing biomechanical creature
 
-pinK:
-- need to be more modified
+v1 (no adjective)
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' with a (glowing biomechanical creature:1.6) intertwining with the letters. As the creature wraps around the text, its sinewy body pulses with bioluminescent colors that blend seamlessly into the letters. The transition showcases intricate details, with fluid movements and soft, glowing tendrils extending from the creature to the text. The lighting enhances the organic feel, casting deep shadows and illuminating the vibrant colors for a captivating, dynamic effect.
 ```
+
+v2 (adjectives)
+```
+(Hyper-realistic 3D CGI) logo for 'CyberT33N' featuring a highly luminous biomechanical creature gracefully entwining with the letters. As the creature wraps around the text, its sinuous and vibrant body pulsates with radiant bioluminescent colors, blending seamlessly into the letters. The transition is characterized by intricate and fluid details, with delicate, glowing tendrils extending from the creature to the text, creating a harmonious fusion. The dramatic lighting enhances the organic feel, casting deep, dynamic shadows while illuminating the richly vibrant colors for an enthralling and visually striking effect.
+```
+
+
 
 <br><br>
 
 #### massive wave of energy
 
 blue **HOT**
-- need to be more modified
+
+no adjectives:
 ```
 (Hyper-realistic 3D CGI) logo featuring 'Your Text' where a (massive wave of energy:1.6) crashes into the letters from the left. The wave is composed of swirling blue and silver light, and as it hits the text, it cascades over the letters, transforming them into a shimmering surface that ripples like water. The transition creates dynamic splashes and glowing droplets that scatter around the logo, while the lettering glows brightly as if infused with energy. Lighting reflects off the water-like surface, creating a dazzling effect with deep shadows and highlights.
 ```
 
+with adjectives:
+```
+(Hyper-realistic 3D CGI) logo featuring 'Your Text', where a massive and electrifying wave of energy crashes into the letters from the left. The wave is composed of swirling, iridescent blue and silver light, and as it strikes the text, it cascades dramatically over the letters, transforming them into a glistening surface that ripples fluidly like water. The transition generates dynamic splashes and luminous droplets that scatter around the logo, while the lettering radiates with a vibrant glow, as if infused with pure energy. The reflective lighting dances off the water-like surface, creating a breathtaking effect with intense shadows and striking highlights.
+```
 
 
 
@@ -61,40 +72,83 @@ blue **HOT**
 ###### assive metallic beetle
 
 silver:
+no adjectives:
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' featuring a (massive metallic beetle:1.7) lifting off from the letters. As the beetle's wings open, they transform into shimmering sheets of metal that envelop the text, making it appear as if the letters are emerging from the creature. The transition is enhanced with swirling dust and particles that trail behind the wings, while the beetle’s body reflects a stunning array of colors. Dramatic lighting casts bold shadows, emphasizing the grand scale of the scene.
 ```
+
+with adjectives:
+```
+(Hyper-realistic 3D CGI) logo for 'Your Text' featuring a massive and stunning metallic beetle lifting off from the letters. As the beetle’s glistening wings unfold, they transform into shimmering sheets of polished metal that gracefully envelop the text, creating the illusion that the letters are emerging majestically from the creature. The transition is enhanced by swirling clouds of dust and luminous particles trailing behind the wings, while the beetle’s body reflects a breathtaking array of iridescent colors. Dramatic lighting casts bold shadows, highlighting the grand scale of the scene and adding depth to the overall composition.
+```
+
 
 <br><br>
 
 ###### elemental water serpent
 - need to be more modified
+without adjectives:
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where an (elemental water serpent:1.7) gracefully undulates from the letters. The serpent’s body transitions into flowing waves of liquid crystal, blending seamlessly into the text. Each scale catches the light, creating rippling reflections, while bubbles and luminescent droplets enhance the fluid motion.
 ```
+
+with adjectives:
+**HOT**
+```
+(Hyper-realistic 3D CGI) logo for 'CyberT33N' where an elegant elemental water serpent gracefully undulates from the letters. The serpent’s body transitions into flowing waves of liquid crystal, blending seamlessly into the text. Each iridescent scale captures the light, creating rippling reflections, while bubbles and luminescent droplets enhance the fluid motion, giving the entire composition a dynamic and enchanting quality.
+```
+
+
+
+
 
 <br><br>
 
 ###### elemental water serpent
 red **EXTREM HOT**
 - need to be more modified
+without adjectives:
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where an (elemental water serpent:1.7) gracefully undulates from the letters. The serpent’s body transitions into flowing waves of liquid crystal, blending seamlessly into the text. Each scale catches the light, creating rippling reflections, while bubbles and luminescent droplets enhance the fluid motion.
 ```
+
+with adjectives:
+```
+(Hyper-realistic 3D CGI) logo for 'CyberT33N' where an elegant elemental water serpent gracefully undulates from the letters. The serpent’s body transitions into flowing waves of shimmering liquid crystal, blending seamlessly into the text. Each iridescent scale captures the light, creating hypnotic rippling reflections, while bubbles and luminescent droplets enhance the fluid motion, adding a captivating and dynamic essence to the entire composition.
+```
+
+
 
 <br><br>
 
 ###### mechanical phoenix
 red **EXTREM HOT**
 - need to be more modified
+without adjectives:
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where a (mechanical phoenix:1.7) rises dramatically from the letters. The phoenix’s wings unfurl, transitioning into swirling streams of molten metal that flow into the text. Each feather morphs into intricate metallic textures, with glowing blue embers spilling from the tips. The transition creates a dynamic motion effect, with sparks flying and vibrant, luminescent particles trailing the wings as they lift. Dramatic lighting enhances the fiery colors and reflective surfaces, casting deep shadows for a cinematic feel.
 ```
 
+with adjectives:
+```
+(Hyper-realistic 3D CGI) logo for 'CyberT33N' where a stunningly majestic mechanical phoenix rises dramatically from the letters. The phoenix’s grand, expansive wings unfurl, transitioning into swirling streams of molten metal that flow effortlessly into the text. Each intricate feather morphs into exquisitely detailed metallic textures, with radiantly glowing blue embers spilling from the tips. The transition creates a visually dynamic motion effect, with brilliant sparks flying and vibrant, luminescent particles trailing gracefully behind the wings as they lift. Dramatic lighting enhances the intense fiery colors and gleaming reflective surfaces, casting deep, captivating shadows for an immersive cinematic feel that enthralls the viewer.
+```
+
+
+
+
+
 version2:
 **HOT**
+
+without adjectives:
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where a (digital dragon:1.8) emerges from the letters. The dragon’s scales shimmer in iridescent hues, each reflecting code snippets. Its eyes glow with a fierce azure light, exhaling streams of (binary code:1.6) that intertwine with the text. The tail coils around the letters, creating a vortex of glowing particles that dance in the air, illuminated by pulsating neon lights.
+```
+
+with adjectives:
+```
+(Hyper-realistic 3D CGI) logo for 'CyberT33N' where a powerful digital dragon emerges from the letters. The dragon’s iridescent scales shimmer in a mesmerizing array of hues, each reflecting dynamic code snippets. Its eyes radiate a fierce azure light, exhaling streams of vivid binary code that intertwine seamlessly with the text. The majestic tail coils around the letters, creating a whirling vortex of glowing particles that dance gracefully in the air, illuminated by pulsating neon lights that enhance the overall ethereal atmosphere.
 ```
 
 
@@ -105,19 +159,37 @@ version2:
 ###### mechanical dragon
 blue **EXTREM HOT**
 - need to be more modified
+withotu adjectives:
 ```
 (Hyper-realistic 3D CGI) logo for 'Your Text' where a (mechanical dragon:1.8) coils around the letters. The dragon’s scales glimmer as it weaves through the text, its tail transforming into vibrant streams of blue energy that illuminate the letters. Each scale reflects intricate details, while glowing eyes enhance the dragon's fierce presence. The transition features swirling smoke and shimmering sparks that trail the dragon’s movements, with dramatic lighting casting deep shadows that create a sense of depth and intensity.
 ```
 
+with adjectives:
+```
+(Hyper-realistic 3D CGI) logo for 'CyberT33N' where a formidable mechanical dragon coils around the letters. The dragon’s gleaming scales glimmer as it weaves fluidly through the text, its tail transforming into vibrant streams of electric blue energy that illuminate the letters with an intense glow. Each scale reflects intricate and mesmerizing details, while its piercing, glowing eyes enhance the dragon's fierce presence. The transition features swirling clouds of smoke and shimmering sparks that trail the dragon’s movements, with dramatic lighting casting deep, captivating shadows that create a striking sense of depth and intensity.
+```
+
+
+<br><br>
+
+
 v2 more playing with letter **hot**
+without adjectives:
 ```
 (Hyper-realistic 3D CGI:1.8) logo for 'CyberT33N' where an (imposing mechanical dragon:2.0) playfully interacts with the oversized, glossy letters (bold and metallic:1.7) that dominate the foreground. The dragon coils around the letters, its vibrant tail transforming into energetic streams of blue tendrils (luminous and dynamic:1.6) that intertwine with the text, illuminating each character from within. Each scale on the dragon reflects intricate, radiant patterns, enhancing its fierce and captivating presence. The transition includes swirling smoke and sparkling particles (magical and ethereal:1.5) that trail the dragon’s movements, while dramatic, multi-directional lighting creates deep shadows and brilliant highlights (cinematic intensity:1.7), emphasizing the 3D effect and adding depth to the scene.
 
 ```
 
+with adjectives:
+- **EXTREM HOT**
+```
+Hyper-realistic 3D CGI logo for 'CyberT33N' featuring a strikingly imposing mechanical dragon that playfully entwines with the oversized, glossy and bold metallic letters. The dragon's vibrant tail gracefully transforms into luminous and dynamic streams of electric blue tendrils that intimately intertwine with the text, illuminating each character from within. Each scale on the dragon showcases intricate and radiant patterns, enhancing its fierce and captivating presence.
+
+The transition is enriched by whirling smoke and sparkling particles that evoke a magical and ethereal atmosphere, trailing the dragon’s fluid movements. Dramatic and multi-directional lighting casts deep shadows and brilliant highlights, creating an ambiance of cinematic intensity that accentuates the 3D effect and depth of the entire scene, seamlessly merging the dragon and the text into a unified masterpiece.
+```
 
 
-
+<br><br>
 <br><br>
 
 ###### cybernetic wolf
