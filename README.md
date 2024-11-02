@@ -155,6 +155,13 @@ with adjectives:
 (Hyper-realistic 3D CGI) logo for 'CyberT33N' where a powerful digital dragon emerges from the letters. The dragon’s iridescent scales shimmer in a mesmerizing array of hues, each reflecting dynamic code snippets. Its eyes radiate a fierce azure light, exhaling streams of vivid binary code that intertwine seamlessly with the text. The majestic tail coils around the letters, creating a whirling vortex of glowing particles that dance gracefully in the air, illuminated by pulsating neon lights that enhance the overall ethereal atmosphere.
 ```
 
+banner:
+```
+(Hyper-realistic 3D CGI) header banner for 'CyberT33N' where a powerful digital dragon emerges from the letters. The dragon’s iridescent scales shimmer in a mesmerizing array of hues, each reflecting dynamic code snippets. Its eyes radiate a fierce azure light, exhaling streams of vivid binary code that intertwine seamlessly with the text. The majestic tail coils around the letters, creating a whirling vortex of glowing particles that dance gracefully in the air, illuminated by pulsating neon lights that enhance the overall ethereal atmosphere.
+```
+- 25 steps
+- seed 257762932021985
+
 
 
 
