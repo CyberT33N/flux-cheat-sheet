@@ -157,6 +157,8 @@ with adjectives:
 
 
 
+
+
 <br><br>
 
 
@@ -192,6 +194,20 @@ Hyper-realistic 3D CGI logo for 'CyberT33N' featuring a strikingly imposing mech
 The transition is enriched by whirling smoke and sparkling particles that evoke a magical and ethereal atmosphere, trailing the dragon’s fluid movements. Dramatic and multi-directional lighting casts deep shadows and brilliant highlights, creating an ambiance of cinematic intensity that accentuates the 3D effect and depth of the entire scene, seamlessly merging the dragon and the text into a unified masterpiece.
 ```
 - Use 25 steps
+
+
+
+
+banner:
+- **EXTREM HOT**
+```
+Hyper-realistic 3D CGI header banner for 'Your Text', featuring a strikingly imposing mechanical dragon that playfully entwines with the oversized, glossy and bold metallic letters. The dragon’s vibrant tail gracefully transforms into luminous and dynamic streams of electric blue tendrils, intertwining intimately with the text and illuminating each character from within. Each scale on the dragon showcases intricate and radiant patterns, enhancing its fierce and captivating presence.
+
+The transition is enriched by whirling smoke and sparkling particles that evoke a magical and ethereal atmosphere, trailing the dragon’s fluid movements. Dramatic, multi-directional lighting casts deep shadows and brilliant highlights, creating an ambiance of cinematic intensity that accentuates the 3D effect and depth of the entire scene, seamlessly merging the dragon and the text into a unified masterpiece that draws the viewer in.
+```
+- Use 25 steps
+
+
 
 
 <br><br>
