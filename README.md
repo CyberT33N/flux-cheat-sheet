@@ -239,6 +239,15 @@ Hyper-realistic, cinematic 3D CGI logo for 'CyberT33N' in an intense neon-hologr
 The dragon’s tail morphs into vibrant streams of luminous, electric tendrils that snake through the text, illuminating it from within. The scales on the dragon shimmer with holographic patterns, each one pulsing as if coded with digital energy, blending seamlessly into the letters where they touch, creating the illusion that the dragon and the text are one entity. 
 
 Dramatic, multi-directional neon lighting intensifies the shadows and highlights, casting a rich, cinematic depth that immerses the entire scene in a surreal, high-tech ambiance. Swirling pixelated particles and faint digital smoke weave through the air, heightening the futuristic, IT-centric feel. This intense fusion of dragon and text forms a visually commanding masterpiece that embodies the essence of cyberpunk and software development.
+```
+
+other font:
+```
+Hyper-realistic, cinematic 3D CGI logo for 'Full-Stack Services' in an intense neon-holographic cyberpunk style. The dragon, crafted from striking electric blue and pink neon light, coils around the oversized, deeply three-dimensional letters, almost fusing into them. The letters themselves are bold and highly cinematic and highly thick without gaps, metallic, and highly reflective, each carved with meticulous, intricate details that capture and refract the neon glow, making them appear as if they’re alive with pulsing energy.
+
+The dragon’s tail morphs into vibrant streams of luminous, electric tendrils that snake through the text, illuminating it from within. The scales on the dragon shimmer with holographic patterns, each one pulsing as if coded with digital energy, blending seamlessly into the letters where they touch, creating the illusion that the dragon and the text are one entity. 
+
+Dramatic, multi-directional neon lighting intensifies the shadows and highlights, casting a rich, cinematic depth that immerses the entire scene in a surreal, high-tech ambiance. Swirling pixelated particles and faint digital smoke weave through the air, heightening the futuristic, IT-centric feel. This intense fusion of dragon and text forms a visually commanding masterpiece that embodies the essence of cyberpunk and software development.
 
 ```
 
