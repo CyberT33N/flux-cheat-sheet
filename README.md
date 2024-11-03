@@ -232,9 +232,7 @@ The transition is enriched by whirling smoke and sparkling particles that evoke 
 <br><br>
 
 
-v3 more playing with letter **hot**
-
-funktioniert nur mit einem wort:
+v3 more playing with letter **extrem hot**
 ```
 Hyper-realistic, cinematic 3D CGI logo for 'CyberT33N' in an intense neon-holographic cyberpunk style. The dragon, crafted from striking electric blue and pink neon light, coils around the oversized, deeply three-dimensional letters, almost fusing into them. The letters themselves are bold, metallic, and highly reflective, each carved with meticulous, intricate details that capture and refract the neon glow, making them appear as if they’re alive with pulsing energy.
 
