@@ -240,6 +240,8 @@ The dragon’s tail morphs into vibrant streams of luminous, electric tendrils t
 
 Dramatic, multi-directional neon lighting intensifies the shadows and highlights, casting a rich, cinematic depth that immerses the entire scene in a surreal, high-tech ambiance. Swirling pixelated particles and faint digital smoke weave through the air, heightening the futuristic, IT-centric feel. This intense fusion of dragon and text forms a visually commanding masterpiece that embodies the essence of cyberpunk and software development.
 ```
+- seed 257762932021985
+- steps 25
 
 other font:
 ```
