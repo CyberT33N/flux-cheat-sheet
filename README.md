@@ -171,7 +171,7 @@ banner:
 (Hyper-realistic 3D CGI) header banner for 'CyberT33N' where a powerful digital dragon emerges from the letters. The dragon’s iridescent scales shimmer in a mesmerizing array of hues, each reflecting dynamic code snippets. Its eyes radiate a fierce azure light, exhaling streams of vivid binary code that intertwine seamlessly with the text. The majestic tail coils around the letters, creating a whirling vortex of glowing particles that dance gracefully in the air, illuminated by pulsating neon lights that enhance the overall ethereal atmosphere.
 ```
 - 25 steps
-- seed 257762932021985
+- seed 257762932021985 (25776293202194 besser5)
 
 
 
@@ -240,7 +240,7 @@ The dragon’s tail morphs into vibrant streams of luminous, electric tendrils t
 
 Dramatic, multi-directional neon lighting intensifies the shadows and highlights, casting a rich, cinematic depth that immerses the entire scene in a surreal, high-tech ambiance. Swirling pixelated particles and faint digital smoke weave through the air, heightening the futuristic, IT-centric feel. This intense fusion of dragon and text forms a visually commanding masterpiece that embodies the essence of cyberpunk and software development.
 ```
-- seed 257762932021985
+- seed 257762932021985 (25776293202194 besser5)
 - steps 25
 
 other font:
