@@ -28,6 +28,9 @@
 
 
 
+### Vector
+- https://aitubo.ai/blog/post/how-to-create-high-quality-logos-with-flux-ai/
+
 
 
 
