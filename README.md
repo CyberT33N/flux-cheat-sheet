@@ -29,7 +29,35 @@
 
 
 ### Vector
+
+<details><summary>Click to expand..</summary>
+
+# Links
 - https://aitubo.ai/blog/post/how-to-create-high-quality-logos-with-flux-ai/
+
+
+
+# White background
+
+## Letter C
+```
+Create a Glassmorphism-inspired logo featuring only the letter 'C' as the central focus. Design the 'C' with a bold, sleek, and high-tech style against a pure white background. Use a subtle gradient of neon blue and electric purple within the 'C' to give it a sense of modernity and digital depth.
+
+Apply a frosted glass effect to add dimension and a hint of transparency, making the 'C' feel light, clean, and futuristic. Ensure the overall design is minimalist yet striking, capturing a cutting-edge, tech-oriented aesthetic.
+```
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40,6 +68,7 @@
 
 ### 3D CGI with transition with objects or background
 
+<details><summary>Click to expand..</summary>
 
 
 
@@ -48,7 +77,7 @@
 <br><br>
 <br><br>
 
-#### glowing biomechanical creature
+# glowing biomechanical creature
 
 v1 (no adjective)
 ```
@@ -64,7 +93,7 @@ v2 (adjectives)
 
 <br><br>
 
-#### massive wave of energy
+# massive wave of energy
 
 blue **HOT**
 
@@ -83,11 +112,11 @@ with adjectives:
 <br><br>
 <br><br>
 
-##### Animals
+## Animals
 
 <br><br>
 
-###### assive metallic beetle
+### assive metallic beetle
 
 silver:
 no adjectives:
@@ -103,7 +132,7 @@ with adjectives:
 
 <br><br>
 
-###### elemental water serpent
+## elemental water serpent
 - need to be more modified
 without adjectives:
 ```
@@ -122,7 +151,7 @@ with adjectives:
 
 <br><br>
 
-###### elemental water serpent
+## elemental water serpent
 red **EXTREM HOT**
 - need to be more modified
 without adjectives:
@@ -139,7 +168,7 @@ with adjectives:
 
 <br><br>
 
-###### mechanical phoenix
+## mechanical phoenix
 red **EXTREM HOT**
 - need to be more modified
 without adjectives:
@@ -183,7 +212,7 @@ banner:
 <br><br>
 
 
-###### mechanical dragon
+## mechanical dragon
 blue **EXTREM HOT**
 - need to be more modified
 withotu adjectives:
@@ -277,7 +306,7 @@ Dramatic, multi-directional neon lighting intensifies the shadows and highlights
 <br><br>
 <br><br>
 
-###### cybernetic wolf
+### cybernetic wolf
 
 red:
 - need to be more modified
@@ -298,11 +327,11 @@ red:
 <br><br>
 <br><br>
 
-#### roboter
+## roboter
 
 <br><br>
 
-##### full roboter
+### full roboter
 
 
 **hot**
@@ -322,7 +351,7 @@ Spectacular 3D CGI logo for 'CyberT33N', featuring a massive constructor robot m
 
 <br><br>
 
-##### arm
+### arm
 
 **hot**
 without adjectives:
@@ -343,7 +372,7 @@ Immersive 3D CGI logo for 'CyberT33N', showcasing a sleek, advanced robotic arm 
 
 <br><br>
 
-##### massive mechanical hand
+### massive mechanical hand
 
 silver 
 - need to be more modified
@@ -362,7 +391,7 @@ version 2:
 
 
 
-#### liquid metal or style
+## liquid metal or style
 
 silver **HOT**
 - need to be more modified
@@ -381,7 +410,7 @@ Hyper-realistic 3D CGI logo featuring 'CyberT33N', where a smooth, liquid metal 
 
 
 
-#### cyber-dragon style
+## cyber-dragon style
 
 Blue:
 ```
@@ -395,7 +424,7 @@ blue - transition with dragon:
 
 
 
-
+</details>
 
 
 
@@ -432,9 +461,11 @@ blue - transition with dragon:
 
 ### 3D CGI
 
+<details><summary>Click to expand..</summary>
+  
 <br><br>
 
-#### Holograph IT Tech
+# Holograph IT Tech
 ```
 A maximum 3D CGI cinematic LinkedIn header banner featuring the name 'Your Text' in a bold, futuristic, hologram-style font with a powerful, multidimensional light-blue glow. The text is rendered in a thick, modern typeface specifically designed to enhance 3D CGI depth, giving it a commanding presence as it floats in mid-air. Each letter has high-definition edges, casting intricate, realistic shadows and subtle metallic reflections that intensify the immersive, cinematic quality. Set against a high-tech background with deep blues, metallic grays, and hints of silver, the design captures a professional IT and software development theme. Detailed, flowing circuit patterns and abstract digital data elements wrap around the holographic text, creating a layered, high-tech environment. Intense cinematic lighting emphasizes each bold detail of the 3D effect, with glows and reflections enhancing a premium, sophisticated look—ideal for an IT professional's LinkedIn banner.
 ```
@@ -443,7 +474,7 @@ A maximum 3D CGI cinematic LinkedIn header banner featuring the name 'Your Text'
 
 <br><br>
 
-#### meteor shower style
+# meteor shower style
 
 red:
 ```
@@ -453,7 +484,7 @@ red:
 <br><br>
 
 
-#### giant crystalline structure
+# giant crystalline structure
 
 blue:
 ```
@@ -468,7 +499,7 @@ gradient:
 <br><br>
 
 
-#### lava and obsidian style
+# lava and obsidian style
 
 red with smoke:
 ```
@@ -478,7 +509,7 @@ red with smoke:
 <br><br>
 
 
-#### futuristic armor and neon wires style
+# futuristic armor and neon wires style
 
 red:
 ```
@@ -488,7 +519,7 @@ red:
 <br><br>
 
 
-#### space-metal style
+# space-metal style
 Blue:
 ```
 (Ultra-detailed 3D CGI) logo of 'Your Text' in a (space-metal style:1.5). 'Your' is positioned above 'Text' in letters resembling polished meteorite metal, with cosmic textures and embedded stardust. Small nebula clouds float around the text, giving it a galactic, cinematic vibe. The letters emit a subtle, deep-blue glow, adding a sense of mysterious energy and depth.
@@ -496,7 +527,7 @@ Blue:
 
 <br><br>
 
-#### ancient-meets-futuristic stone and metal style
+# ancient-meets-futuristic stone and metal style
 
 Blue **HOT**:
 without adjectives:
@@ -522,7 +553,7 @@ Version 2:
 
 
 
-#### Futuristic hologram style
+# Futuristic hologram style
 
 Blue:
 ```
@@ -533,7 +564,7 @@ Blue:
 
 
 
-#### Transformers-inspired Style
+# Transformers-inspired Style
 
 Blue
 ```
@@ -555,4 +586,7 @@ wheel design:
 (Highly detailed 3D CGI) logo of 'Your Text' in (advanced mechanical Transformer style:1.5). 'Your' sits above 'Text' with each letter constructed from worn metal, reinforced by gears and bolts, and small neon blue LED accents. Surrounding metallic particles add motion, while cinematic lighting casts strong reflections, highlighting the powerful, tech-futuristic design.
 ```
 
+
+
+</details>
 
