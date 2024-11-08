@@ -50,13 +50,22 @@ version 1:
 Create a futuristic logo with the letter 'C' morphing into a holographic-inspired shape. Use iridescent colors that shift between blue, purple, and green. The design should feel multidimensional and otherworldly, with a crisp white background to let the holographic colors shine.
 ```
 
-version 2 **hot**:
+version 2 **hot** (with shadows and reflections on bottom):
 ```
 Design an ultra-high-quality, futuristic logo centered around the letter 'C' that seamlessly morphs into an ethereal, holographic-inspired symbol. This transformation should convey a sense of depth and multi-dimensionality, as though the logo exists in both physical and digital realms. Embrace an iridescent color palette that flows smoothly between electric blues, deep purples, and shimmering emerald greens, creating a captivating spectral effect.
 
 The ‘C’ should appear fluid, almost as if it’s being formed from or dissolving into beams of light, with subtle gradients and fine detailing to achieve a hyper-realistic, prism-like quality. Add delicate glows and reflections to amplify the holographic feel, but keep the lines clean, crisp, and precise, avoiding any visual clutter.
 
 Each layer of color should reflect and refract to mimic the look of light passing through crystal, achieving a radiant, high-end finish. Ensure the logo remains distinct against a pristine white background, allowing the holographic colors to appear vibrant, vivid, and truly luminous. Every element should feel futuristic and immersive, capturing the essence of a high-tech, otherworldly aesthetic.
+```
+
+version 2 **hot** (without shadows and reflections on bottom):
+```
+Design an ultra-high-quality, futuristic logo featuring the letter 'C' that morphs seamlessly into a holographic-inspired, vector-based shape. The logo should use a striking iridescent color palette, smoothly transitioning between vibrant blues, rich purples, and luminous greens, without relying on shadows or reflections.
+
+Focus on creating a multi-dimensional look through precise layering of colors and smooth, gradient transitions within the flat vector format, giving the impression of depth and light play solely through color. The letter 'C' should have a fluid, almost ethereal quality, with clean lines and sharp edges that feel both high-tech and minimalistic.
+
+The holographic effect should evoke the feeling of a prism or crystal, but remain entirely in flat colors, crafted to give a sense of movement and elegance. Set on a crisp white background, the colors should appear bold and radiant, with each hue flowing harmoniously to create a captivating, otherworldly aesthetic that is both simple and striking.
 ```
 
 
