@@ -71,6 +71,14 @@ The holographic effect should evoke the feeling of a prism or crystal, but remai
 
 
 
+version 3 **hot** blue:
+```
+Design an ultra-high-quality, futuristic logo featuring the letter 'C' that morphs seamlessly into a holographic-inspired, vector-based shape. The logo should use a striking palette of light blue tones, smoothly transitioning between shades of icy blue, soft aqua, and sky blue, without relying on shadows or reflections.
+
+Focus on creating a multi-dimensional look through precise layering of colors and smooth, gradient transitions within the flat vector format, giving the impression of depth and light play solely through color. The letter 'C' should have a fluid, almost ethereal quality, with clean lines and sharp edges that feel both high-tech and minimalistic.
+
+The holographic effect should evoke the feeling of a prism or crystal, but remain entirely in flat colors, crafted to give a sense of movement and elegance. Set on a crisp white background, the light blue colors should appear bold and radiant, with each hue flowing harmoniously to create a captivating, otherworldly aesthetic that is both simple and striking.
+```
 
 
 
