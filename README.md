@@ -37,9 +37,26 @@
 
 
 
-# White background
+# Frames
 
-## Letter C
+## 3D
+
+Code blocks**hot**:
+```
+Design a frame built from floating 3D blocks of code, with each block representing a different line of programming syntax. These blocks should shift and rotate in space, like cubes in a 3D environment. Some blocks should glow with neon colors, others should be static, giving the impression of a constantly evolving coding structure. Keep the background white to enhance the futuristic, techy vibe.
+```
+
+
+
+
+<br><br>
+<br><br>
+
+
+
+# Letter C
+
+## White background
 
 <br><br>
 
